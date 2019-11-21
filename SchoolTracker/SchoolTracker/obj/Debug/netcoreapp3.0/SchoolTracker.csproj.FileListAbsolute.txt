@@ -1,0 +1,11 @@
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.0\SchoolTracker.exe
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.0\SchoolTracker.deps.json
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.0\SchoolTracker.runtimeconfig.json
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.0\SchoolTracker.runtimeconfig.dev.json
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.0\SchoolTracker.dll
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\bin\Debug\netcoreapp3.0\SchoolTracker.pdb
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.0\SchoolTracker.csprojAssemblyReference.cache
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.0\SchoolTracker.AssemblyInfoInputs.cache
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.0\SchoolTracker.AssemblyInfo.cs
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.0\SchoolTracker.dll
+C:\Users\philjoha\source\repos\SchoolTracker\SchoolTracker\obj\Debug\netcoreapp3.0\SchoolTracker.pdb
